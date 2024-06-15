@@ -6,3 +6,5 @@
 //Peek() : returns the last element of the stack
 //Length() : returns the length of the stack
 
+var a =10;
+console.log(a);
